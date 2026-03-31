@@ -1,0 +1,10 @@
+Threat Log Analyzer is a security-focused system designed to detect,
+classify, and explain suspicious activity in authentication logs.
+
+The focus of this project is behavior, not volume.
+
+Rather than reporting every event, the system highlights only patterns
+that indicate meaningful risk, such as brute-force attempts or abnormal
+login sequences.
+
+Every detection is explainable, intentional, and human-readable.
